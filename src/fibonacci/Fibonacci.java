@@ -2,7 +2,8 @@ package fibonacci;
 
 /**
  * Created by nikhilthakur on 6/28/17.
- * This class will help to compute the Nth Fibonacci number
+ * This class will help to compute the Nth Fibonacci number.
+ * By using the array to keep track of the computation, we reduce the computational time of the algorithm from O(2^n) to O(n)
  */
 public class Fibonacci {
 
