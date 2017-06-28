@@ -2,6 +2,8 @@ package fibonacci;
 
 import org.junit.Test;
 
+import java.util.Arrays;
+
 import static org.junit.Assert.*;
 
 /**
@@ -10,12 +12,12 @@ import static org.junit.Assert.*;
 public class FibonacciTest {
     @Test
     public void testSecondNumber(){
-        assertEquals(2,Fibonacci.fibo(3));
+        assertEquals(4,Fibonacci.fibo(3).length);
     }
 
     @Test
     public void testSeventhNumber(){
-        assertEquals(13,Fibonacci.fibo(7));
+        assertEquals(8,Fibonacci.fibo(7).length);
     }
 
 }
