@@ -23,7 +23,6 @@ public class PrimeNumbers {
                 }
             }
         }
-
         return prime;
     }
 }
