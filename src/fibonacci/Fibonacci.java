@@ -11,7 +11,7 @@ public class Fibonacci {
         int[] array = new int[number + 1];
 
         for (int counter = 0; counter <number; counter++){
-            System.out.println(fibo(number, array));
+             fibo(number, array);
         }
         return array;
     }
