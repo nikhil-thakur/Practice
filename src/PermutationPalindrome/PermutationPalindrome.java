@@ -6,7 +6,13 @@ package PermutationPalindrome;
 public class PermutationPalindrome {
 
     public static final int ALPHABETS_IN_ENGLISH = 256;
+    public static final char DELIMITER = ' ';
 
+    /**
+     * Check if the string is a permutation of a string that is a palindrome.
+     * @param string String that needs to be checked against.
+     * @return false if input is null or empty. Else boolean value for the problem statement
+     */
     public static boolean isPermutationPalindrome(String string){
         if (string == null || string.isEmpty()){
             return false;
@@ -36,12 +42,17 @@ public class PermutationPalindrome {
 
     }
 
+    /**
+     * Get string without the delimiter ' '
+     * @param originalString String that needs to be manipulated
+     * @return string without spaces
+     */
     private static char[] removeSpacesFromString(String originalString) {
         int spacesToBeRemoved = 0;
 
         char[] chars = originalString.toCharArray();
         for (char character: chars){
-            if (character == ' ')
+            if (character == DELIMITER)
                 spacesToBeRemoved++;
         }
 
