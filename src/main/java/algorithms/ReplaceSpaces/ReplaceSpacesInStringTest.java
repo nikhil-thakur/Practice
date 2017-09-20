@@ -1,4 +1,4 @@
-package ReplaceSpaces;
+package main.java.algorithms.ReplaceSpaces;
 
 import org.junit.Test;
 

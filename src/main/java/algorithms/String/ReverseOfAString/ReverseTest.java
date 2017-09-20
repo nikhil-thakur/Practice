@@ -1,4 +1,4 @@
-package String.ReverseOfAString;
+package main.java.algorithms.String.ReverseOfAString;
 
 import org.junit.Assert;
 import org.junit.Test;

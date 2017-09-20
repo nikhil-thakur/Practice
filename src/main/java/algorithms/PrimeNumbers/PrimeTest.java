@@ -1,5 +1,6 @@
-package PrimeNumbers;
+package main.java.algorithms.PrimeNumbers;
 
+import main.java.algorithms.PrimeNumbers.PrimeNumbers;
 import org.junit.Assert;
 import org.junit.Test;
 

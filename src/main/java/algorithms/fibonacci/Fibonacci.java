@@ -1,4 +1,4 @@
-package fibonacci;
+package main.java.algorithms.fibonacci;
 
 /**
  * Created by nikhilthakur on 6/28/17.

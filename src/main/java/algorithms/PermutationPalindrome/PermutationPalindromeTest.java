@@ -1,4 +1,4 @@
-package PermutationPalindrome;
+package main.java.algorithms.PermutationPalindrome;
 
 import org.junit.Test;
 

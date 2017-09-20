@@ -1,4 +1,4 @@
-package ReplaceSpaces;
+package main.java.algorithms.ReplaceSpaces;
 
 /**
  * Created by nikhilthakur on 7/6/17.
