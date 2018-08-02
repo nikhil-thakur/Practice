@@ -1,4 +1,4 @@
-package main.java.algorithms.PermutationPalindrome;
+package algorithms.PermutationPalindrome;
 
 /**
  * Created by nikhilthakur on 7/7/17.

@@ -1,10 +1,7 @@
-package main.java.algorithms.PrimeNumbers;
+package algorithms.PrimeNumbers;
 
-import main.java.algorithms.PrimeNumbers.PrimeNumbers;
 import org.junit.Assert;
 import org.junit.Test;
-
-import java.util.Arrays;
 
 /**
  * Created by nikhilthakur on 6/27/17.

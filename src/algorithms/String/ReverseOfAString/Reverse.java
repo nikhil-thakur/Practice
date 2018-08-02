@@ -1,4 +1,4 @@
-package main.java.algorithms.String.ReverseOfAString;
+package algorithms.String.ReverseOfAString;
 
 import java.util.HashSet;
 import java.util.Set;

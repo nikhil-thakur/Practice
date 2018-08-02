@@ -1,9 +1,11 @@
-package main.java.algorithms.String.ReverseOfAString;
+package algorithms.String.ReverseOfAString;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
+
 
 /**
  * Created by nikhilthakur on 6/22/17.

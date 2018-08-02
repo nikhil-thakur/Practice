@@ -1,4 +1,4 @@
-package main.java.algorithms.PrimeNumbers;
+package algorithms.PrimeNumbers;
 
 import java.util.Arrays;
 

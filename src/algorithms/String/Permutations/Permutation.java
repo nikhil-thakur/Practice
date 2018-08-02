@@ -1,4 +1,4 @@
-package main.java.algorithms.String.Permutations;
+package algorithms.String.Permutations;
 
 import java.util.ArrayList;
 

@@ -1,9 +1,6 @@
-package main.java.algorithms.String.Permutations;
+package algorithms.String.Permutations;
 
-import main.java.algorithms.String.Permutations.Permutation;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by nikhilthakur on 6/28/17.
